@@ -31,6 +31,7 @@
     "eslint-config-hapi": "11.x.x",
     "eslint-plugin-hapi": "4.x.x",
     "glue": "5.x.x",
+    "handlebars": "4.x.x",
     "hapi": "17.x.x",
     "hapi-swagger": "9.x.x",
     "inert": "5.x.x",
@@ -38,6 +39,7 @@
     "vision": "5.x.x",
     "hoek": "5.x.x",
     "knex": "0.14.x",
-    "sqlite3": "3.x.x"
+    "sqlite3": "3.x.x",
+    "vision": "5.x.x"
   }
 }
